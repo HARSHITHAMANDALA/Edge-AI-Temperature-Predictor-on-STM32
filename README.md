@@ -29,7 +29,7 @@ After just a few cycles, the model learns the pattern and starts predicting with
 | `dht11.c / dht11.h` | Reads temperature and humidity from the DHT11 sensor |
 | `ssm.c / ssm.h` | The AI model — predicts temperature and tracks its own accuracy |
 | `main.c` | Ties everything together and runs the main loop |
-| `visual.py` | Python script that plots live graphs on your PC |
+| `visual.py` | Python code that plots live graphs  |
 
 ---
 
